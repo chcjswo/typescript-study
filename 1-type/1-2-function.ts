@@ -17,7 +17,7 @@
     //     });
     // }
 
-    // optional paremter
+    // optional parameter
     function printName(firstname: string, lastname?: string) {
         console.log(firstname);
         console.log(lastname);
